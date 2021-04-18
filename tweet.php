@@ -3,7 +3,7 @@
 <head>
 	<title>SankizTime - Tweet</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="css/tweet.css">
+	<link rel="stylesheet" type="text/css" href="tweet.css">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
 	<!-- Add icon library -->
